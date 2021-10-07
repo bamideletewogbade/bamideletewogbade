@@ -6,6 +6,8 @@
      email: bishoptewogbade@gmail.com 
      twitter: @_tewogbade
      Linkedin: bamidele-tewogbade
+     
+     <a href="https://app.daily.dev/iambishopp"><img src="https://api.daily.dev/devcards/2f542160516a49c3aad3a13b066abcae.png?r=8sa" width="400" alt="bamidele tewogbade's Dev Card"/></a>
 
 <!---
 bamideletewogbade/bamideletewogbade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
