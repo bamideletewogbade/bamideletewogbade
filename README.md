@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @bamideletewogbade
-- 👀 I’m interested in helping to build the African tech community while meeting new people hehe and i love speaking on Elon Musk as the man is a GENIUS!
-- 🌱 Interest in Mobile Applications, API's, Web Apps, Data Analytics and yuppp I love PYTHON!
-- 💞️ I’m looking to collaborate on mobile applications and anything interesting
+- 👀 I’m interested in helping to build the African tech community while meeting new people and I enjoy talking about AI, its use cases, and associated dangers.
+- 🌱 Interest in Artificial Intelligence, APIs, Web Apps, Data Analytics.
+- 💞️ I’m currently building IntelliAI, an AI automation agency that caters to the integration of AI into business processes.
 -  <a href="https://app.daily.dev/iambishopp"><img src="https://api.daily.dev/devcards/2f542160516a49c3aad3a13b066abcae.png?r=8sa" width="400" alt="bamidele tewogbade's Dev Card"/></a>
 - 📫 How to reach me 
-     email: bishoptewogbade@gmail.com 
-     twitter: @_tewogbade
+     Email: bishoptewogbade@gmail.com 
+     Twitter: @_tewogbade
      Linkedin: bamidele-tewogbade
      
     
