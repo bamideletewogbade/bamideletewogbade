@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bamideletewogbade
+- 👋 Hi, I’m Tewogbade Bamidele
 - 👀 I’m interested in helping to build the African tech community while meeting new people and I enjoy talking about AI, its use cases, and associated dangers.
 - 🌱 Interest in Artificial Intelligence, APIs, Web Apps, Data Analytics.
 - 💞️ I’m currently building IntelliAI, an AI automation agency that caters to the integration of AI into business processes.
