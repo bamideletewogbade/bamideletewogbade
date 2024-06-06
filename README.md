@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tewogbade Bamidele
 - 👀 I’m interested in helping to build the African tech community while meeting new people and I enjoy talking about AI, its use cases, and associated dangers.
-- 🌱 Interest in Artificial Intelligence, APIs, Web Apps, Data Analytics.
-- 💞️ I’m currently building IntelliAI, an AI automation agency that caters to the integration of AI into business processes.
--  <a href="https://app.daily.dev/iambishopp"><img src="https://api.daily.dev/devcards/2f542160516a49c3aad3a13b066abcae.png?r=8sa" width="400" alt="bamidele tewogbade's Dev Card"/></a>
+- 🌱 Interest in Artificial Intelligence, Mobile Apps, APIs, Web Apps, Data Analytics.
+- 💞️ I’m building IntelliAI, an AI automation agency that integrates AI into business processes.
+-  <a href="https://app.daily.dev/iambishopp"><img src="https://api.daily.dev/devcards/v2/51fKot0h0.png?type=default&r=r29" width="356" alt="bamidele tewogbade's Dev Card"/></a>
 - 📫 How to reach me 
      Email: bishoptewogbade@gmail.com 
      Twitter: @_tewogbade
